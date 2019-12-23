@@ -47,5 +47,6 @@
 
 
 ## 产品原型
-
+![产品原型](https://images.gitee.com/uploads/images/2019/1223/095838_a45d9641_1831467.jpeg "WechatIMG896.jpeg")
+![个人中心](https://images.gitee.com/uploads/images/2019/1223/095357_9154dc5d_1831467.jpeg "WechatIMG895.jpeg")
 
